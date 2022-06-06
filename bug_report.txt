@@ -1,0 +1,6 @@
+1. ID:
+2. Title:
+3. Steps:
+4. Actual_result:
+5. Expected_result:
+6. Bug_severity:
