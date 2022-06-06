@@ -1,0 +1,6 @@
+1. Title:
+2. Status:
+3. URL_to_bug:
+4. Environment:
+5. Developers_name:
+
